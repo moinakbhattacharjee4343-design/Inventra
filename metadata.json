@@ -1,0 +1,6 @@
+{
+  "name": "Inventra – AI Inventory & Demand Intelligence",
+  "description": "Predict demand. Perfect your stock. AI-powered inventory optimization, seasonal forecasting, Monte Carlo scenario analysis, and multilingual advisor for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
